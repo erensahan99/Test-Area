@@ -3,7 +3,7 @@
 #include <iostream>
 
 Deneme::Deneme() {
-	a = 2;
+	a = 5;
 }
 
 void Deneme::foo() {
