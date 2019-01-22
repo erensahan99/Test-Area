@@ -4,6 +4,5 @@
 int main() {
 	Deneme abc;
 	abc.foo();
-	system("pause>null");
 	return 0;
 }
